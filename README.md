@@ -20,11 +20,9 @@ You can check out a live demo of the Random Gradient Generator [here](demo-link)
   You can save these files (index.html, style.css, script.js) in a local folder and open index.html in your browser to see the app in action.
 
 ## Screenshot 📷
-
-![Screenshot 2024-10-21 193944](https://github.com/user-attachments/assets/c0fd5fa4-32d1-4462-906b-82c9e46e7c51)
+![Screenshot 2024-10-22 002811](https://github.com/user-attachments/assets/87aeae54-2ef8-4dc9-aafa-3fa942abaea0)
 
 ## Features
-
 - Generates a random alphanumeric string of 6 characters
 - Simple, responsive design
 - Clean user interface
@@ -35,13 +33,13 @@ You can check out a live demo of the Random Gradient Generator [here](demo-link)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hernandoabella/background-gradient.git
+   git clone https://github.com/hernandoabella/random-gradient.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd background-gradient
+   cd random-gradient
    ```
 
 3. Open the `index.html` file in your browser to view the app.
